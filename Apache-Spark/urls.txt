@@ -1,0 +1,8 @@
+article1	article2
+article1	article4
+article2	article3
+article3	article1
+article4	article2
+article5	article6
+article3	article6
+artlice5	article1

@@ -1,0 +1,4 @@
+Q7 : Having clause use to do aggregation
+Q8 : Substrings using LEFT, SUBSTRING, SUBSTR. Joining the same table together.
+Q9 : Multiple order by in columns, removing null, between
+Q11 : SELECT can only have cols on which group by is done.
